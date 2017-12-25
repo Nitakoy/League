@@ -101,7 +101,7 @@
 						<li class="main-menu-separator"></li>
 						<!-- === top menu item === -->
 						<li class="dropdown">
-							<a  href="gallery.html">Галерея</a>
+							<a  href="gallery.php">Галерея</a>
 						</li> 
 						<li class="main-menu-separator"></li>
 						<!-- === top menu item === -->
@@ -670,7 +670,7 @@
 						<p>Этот сайт создан при помощи блокнота и подручных средств и мы будем рады принять вашу критику по email указаному справа от данной записи.</p>
 					</div>
 					<div class="footer-1-button">
-						<a href="gallery.html"><div class="my-btn my-btn-primary">
+						<a href="gallery.php"><div class="my-btn my-btn-primary">
 							<div class="my-btn-bg-top"></div>
 							<div class="my-btn-bg-bottom"></div>
 							<div class="my-btn-text">
